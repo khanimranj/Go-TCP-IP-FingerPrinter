@@ -67,9 +67,7 @@ go run main.go //
     Expand unit tests to cover more edge cases and improve stability.
 
 ### Contributing
-
-
-This is a fun project and we’re all learning as we go. If you have ideas or improvements, feel free to open an issue or submit a pull request. Let’s make OS fingerprinting fun and educational together!
+Up to you!
 
 ### Disclaimer
 This is just base code and a work in progress. It's not meant for production use. Use it as a learning tool, and contribute back if you make improvements!
